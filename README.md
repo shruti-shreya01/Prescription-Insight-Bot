@@ -42,12 +42,6 @@ A professional-grade AI pipeline to extract, summarize, and interact with handwr
 ├── .gitignore
 ├── README.md
 ├── mynotes
-    ├── gptnote.jpg
-    ├── mynote2.jpg
-    ├── mynote3.jpg
-    ├── mynote5.jpg
-    ├── mynote6.jpg
-    └── mynote7.jpg
 ├── requirements.txt
 ├── task1
     ├── __pycache__
