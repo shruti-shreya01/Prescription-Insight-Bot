@@ -1,0 +1,17 @@
+{
+    "mynote2.txt": {
+        "raw_output": "```json\n{\n  \"Patient\": \"Michael Brown\",\n  \"Diagnosis\": \"Chronic Obstructive Pulmonary Disease (COPD) with acute exacerbation, secondary pneumonia\",\n  \"Treatment\": \"IV Ceftriaxone 1g x 5 days, nebulization with Levo-Salbutamol + Ipratropium, Oxygen 2L/min via nasal cannula, physiotherapy\",\n  \"Followup\": \"Chest X-ray after 10 days, counseling\"\n}\n```"
+    },
+    "mynote3.txt": {
+        "raw_output": "```json\n{\n  \"Patient\": \"Rohit Verma\",\n  \"Diagnosis\": \"Fever, body ache\",\n  \"Treatment\": \"500g SOS if fever, LFT if fever\",\n  \"Followup\": \"Not mentioned\"\n}\n```"
+    },
+    "mynote5.txt": {
+        "raw_output": "```json\n{\n  \"Patient\": \"neho agarwal\",\n  \"Diagnosis\": \"hypertension, knee osteoarthritis\",\n  \"Treatment\": \"tab amlodipine 5mg morning 3-10d, tab calcium + vitd3, physiotherapy, quadriceps strengthening exercises\",\n  \"Followup\": \"BP charting review\"\n}\n```"
+    },
+    "mynote6.txt": {
+        "raw_output": "```json\n{\n  \"Patient\": \"Arjun Singh\",\n  \"Diagnosis\": \"Acute gastroenteritis with dehydration\",\n  \"Treatment\": \"ORS solution - 200 ml after each loose stool\\nRantac - 150mg - 1 BD x 5 days\",\n  \"Followup\": \"48 hours\"\n}\n```"
+    },
+    "mynote7.txt": {
+        "raw_output": "```json\n{\n  \"Patient\": \"Suman Gupta\",\n  \"Diagnosis\": \"Type 2 Diabetes Mellitus uncontrolled\",\n  \"Treatment\": \"Tab. Metformin 500mg - 1 BD with meals. Tab. Glimepiride 2mg - 1 before breakfast.\",\n  \"Followup\": \"Review in 2 weeks.\"\n}\n```"
+    }
+}

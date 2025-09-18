@@ -1,0 +1,24 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore virtual environments
+venv/
+.env/
+
+# Ignore datasets and large files
+*.csv
+*.jsonl
+*.zip
+*.tar
+*.gz
+*.rar
+*.7z
+data/
+datasets/
+
+# Ignore IDE/editor/project files
+.vscode/
+.idea/
+*.log

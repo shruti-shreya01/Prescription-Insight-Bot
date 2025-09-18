@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Medical Records Chatbot</title>
+    <link rel="stylesheet" type="text/css" href="/static/style.css">
+</head>
+<body>
+    <div class="chat-container">
+        <h1>Medical Records Chatbot</h1>
+        <form method="post" action="/chat">
+            <!-- <input type="text" name="query" placeholder="Ask a question..." required> -->
+            <input 
+    type="text" 
+    name="query" 
+    placeholder="Ask a question..." 
+    required 
+    value="{{ query_text | default('') }}" 
+/>
+
+            <button type="submit">Ask</button>
+        </form>
+        {% if answer %}
+        <div class="chat-box">
+            <p>{{ answer }}</p>  <!-- Only LLM answer here -->
+            <!-- <p><strong>Sources:</strong> {{ sources }}</p>  Optional: remove if not needed -->
+        </div>
+        {% endif %}
+    </div>
+</body>
+</html>
