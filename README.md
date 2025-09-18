@@ -4,6 +4,9 @@
 
 A professional-grade AI pipeline to extract, summarize, and interact with handwritten medical prescriptions, leveraging OCR, semantic search, LLM summarization, and RAG-based conversational AI.
 
+
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)  ![FastAPI](https://img.shields.io/badge/FastAPI-%2300B3C4.svg?style=for-the-badge&logo=fastapi&logoColor=white)  ![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)  ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![ChromaDB](https://img.shields.io/badge/ChromaDB-%23FF5733.svg?style=for-the-badge&logoColor=white)  ![LangChain](https://img.shields.io/badge/LangChain-%2300FFAA.svg?style=for-the-badge&logoColor=white)  ![RAG](https://img.shields.io/badge/RAG-%23FF6600.svg?style=for-the-badge&logoColor=white)  ![Sentence-Transformers](https://img.shields.io/badge/Sentence--Transformers-%230000FF.svg?style=for-the-badge&logoColor=white)  ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  ![Google Gemini](https://img.shields.io/badge/Google_Gemini-%23F4B400.svg?style=for-the-badge&logo=google&logoColor=white)  ![python-dotenv](https://img.shields.io/badge/python--dotenv-%23000000.svg?style=for-the-badge&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
+
 ---
 
 ## 🚀 Features
