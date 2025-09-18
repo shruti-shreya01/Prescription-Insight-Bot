@@ -39,33 +39,42 @@ A professional-grade AI pipeline to extract, summarize, and interact with handwr
 ## 📦 Project Structure
 
 ```bash
-assessment-infraintelai/
-│
-├─ task1/                     # Handwritten text extraction
-│   ├─ mycleaned_texts/       # Cleaned OCR text files
-│   ├─ doc_text_extract.ipynb # Notebook for text extraction
-│   └─ fastapi_chromadb.py    # Keyword search API
-│
-├─ task2/                     # Summarization pipeline
-│   ├─ llm_summarize.ipynb    # Notebook for LLM summarization
-│   ├─ fastapi_summarize.py   # Optional API interface for summarization
-│   └─ summaries.json         # Output summaries
-│
-├─ task3/                     # RAG chatbot
-│   ├─ rag.py                 # FastAPI app
-│   ├─ rag.ipynb              # Notebook for prototyping
-│   ├─ chroma_rag_db/         # Chroma vector store
-│   ├─ templates/
-│   │   └─ chat.html
-│   └─ static/
-│       └─ style.css
-│
-├─ task4/ (Docker setup)
-│   └─ dockerfile
-│
-├─ requirements.txt
-├─ .gitignore
-└─ README.md
+├── .gitignore
+├── README.md
+├── mynotes
+    ├── gptnote.jpg
+    ├── mynote2.jpg
+    ├── mynote3.jpg
+    ├── mynote5.jpg
+    ├── mynote6.jpg
+    └── mynote7.jpg
+├── requirements.txt
+├── task1
+    ├── __pycache__
+    ├── chroma_db.ipynb
+    ├── chroma_db
+    ├── doc_text_extract.ipynb
+    ├── fastapi_chromadb.py
+    ├── mycleaned_texts
+    ├── myextracted_texts
+    └── templates
+    │   └── index.html
+├── task2
+    ├── __pycache__
+    ├── fastapi_summarize.py
+    ├── llm_summarize.ipynb
+    └── summaries.json
+└── task3
+    ├── .dockerignore
+    ├── __pycache__
+    ├── chroma_rag_db
+    ├── dockerfile
+    ├── rag.ipynb
+    ├── rag.py
+    ├── static
+        └── style.css
+    └── templates
+        └── chat.html
 ```
 
 ## Architecture
