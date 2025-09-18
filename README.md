@@ -1,4 +1,4 @@
-# 🩺 Prescription-Insight-Bot
+# 🩺 Prescription Insight Bot
 
 **From handwritten prescription → Extracted insights → Summarized medical data → Interactive RAG chatbot**
 
